@@ -1,15 +1,14 @@
-# <p style="color:blue">Data-Science-A-Z: Real-life-Data-Science-Exrecises-Included</p>
+# Data-Science-A-Z: Real-life-Data-Science-Exrecises-Included
 This course is offered in UDEMY by Kirill Eremenko
 ___
 ## Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!
-___
 Extremely Hands-On... Incredibly Practical... Unbelievably Real!
 
 This is not one of those fluffy classes where everything works out just the way it should and your training is smooth sailing. This course throws you into the deep end.
 
 In this course you WILL experience firsthand all of the PAIN a Data Scientist goes through on a daily basis. Corrupt data, anomalies, irregularities - you name it!
+
 # This course will give you a full overview of the Data Science journey. Upon completing this course you will know:
-___
 How to clean and prepare your data for analysis
 
 How to perform basic visualisation of your data
@@ -31,13 +30,13 @@ Tableau
 Gretl
 
 This course has pre-planned pathways. Using these pathways you can navigate the course and combine sections into YOUR OWN journey that will get you the skills that YOU need.
+
 # What are the requirements?
-___
 Only a passion for success
 
 All software used in this course is either available for Free or as a Demo version
+
 # What am I going to get from this course?
-___
 Successfully perform all steps in a complex Data Science project
 
 Create Basic Tableau Visualisations
@@ -117,8 +116,8 @@ Apply SQL to Data Science projects
 Create stored procedures in SQL
 
 Present Data Science projects to stakeholders
+
 # What is the target audience?
-___
 Anybody with an interest in Data Science
 
 Anybody who wants to improve their data mining skills
